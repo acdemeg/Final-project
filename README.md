@@ -1,6 +1,6 @@
 # Online Shop Demo
 
-Live DEMO: http://devproject.site:8001
+Live DEMO: http://45.90.218.76:8001/
 
 This repo contains project of online-shop based on next 
 tech stack: ReactJs, Redux, Scss, NodeJs, Sequelize, Koa2Js, Postgresql.
